@@ -1,0 +1,5 @@
+Day 1 Notes:
+- Learned Python basics
+- Understood indentation
+- Learned O(1), O(n), O(n^2)
+- Confusion: need to be careful while calculating time complexity of nested loops.

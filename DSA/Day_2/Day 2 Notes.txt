@@ -1,0 +1,5 @@
+Day 2 Notes:
+- Learned Python data types
+- Understood list vs tuple vs set vs dict
+- Solved running sum problem
+- Confusion: confused while using list method(append).

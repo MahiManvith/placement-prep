@@ -1,0 +1,19 @@
+# Python / Conda / Virtual Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env/
+.venv/
+env/
+venv/
+
+Lib/
+Scripts/
+Include/
+DLLs/
+Library/
+conda-meta/
+pkgs/
+python*
