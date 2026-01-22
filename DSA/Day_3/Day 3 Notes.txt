@@ -1,0 +1,8 @@
+TWO SUM LOGIC:
+
+1. Create a dictionary to stores numbers in it.
+2. For each number , check if (target - number) exists in the dictionary.
+3. If yes , return the indices.
+4. If no , store the number in the dictionary.
+
+Time Complexity : O(n)
